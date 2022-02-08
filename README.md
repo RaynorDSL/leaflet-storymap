@@ -9,7 +9,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 ## Create Your Own
 To create this map, we followed the procedure found in the open-source book _Hands-On Data Visualization_ by Jack Dougherty and Ilya Ilyankou. They provide a step-by-step tutorial at: https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html. 
 
-You can also contact the Digital Scholarship Lab to set up a consultation to discuss creating your own Leaflet Storymap by visiting this link [Digital Scholarship Consultation request form](https://www.marquette.edu/library/digital-scholarship/services/consultations.php).
+You can also contact the Digital Scholarship Lab to set up a consultation to discuss creating your own Leaflet Storymap by visiting the [Digital Scholarship Consultation request form](https://www.marquette.edu/library/digital-scholarship/services/consultations.php).
 
 
 ## Credits (and licenses)
